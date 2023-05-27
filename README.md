@@ -1,5 +1,6 @@
-# Enhanced FNB
+# This repository has moved to:
+## <https://github.com/schalkburger/website-enhancements>
 
-Opinionated design improvements of the FNB online banking website.
+~~# Enhanced FNB~~
 
-![Enhanced FNB Preview](Enhanced-FNB-Preview.png)
+~~Opinionated design improvements of the FNB online banking website.~~
